@@ -172,6 +172,11 @@ details {
   padding: 10px;
 }
 
+/* LIBRARY */
+#rvalibrary:hover {
+  color: #fec140;
+}
+
 /* MOBILE FORMATTING */
 @media screen and (max-width: 600px) {
   body {
