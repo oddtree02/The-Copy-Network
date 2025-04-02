@@ -213,6 +213,12 @@ details {
     border: none;
   }
 
+  .nav-button:focus {
+    text-decoration: none;
+    font-weight: bolder;
+    color: blue;
+    }
+
   .desktop-nav {
     display: none;
     visibility: hidden;
